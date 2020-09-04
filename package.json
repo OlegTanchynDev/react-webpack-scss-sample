@@ -50,7 +50,7 @@
     "material-ui": "^0.19.4",
     "mock-require": "^2.0.2",
     "node-sass": "^4.7.2",
-    "papaparse": "^4.3.6",
+    "papaparse": "^5.2.0",
     "postcss-loader": "^2.0.8",
     "query-string": "^5.0.1",
     "radium": "^0.19.6",
